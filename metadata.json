@@ -1,0 +1,6 @@
+{
+  "name": "Liquid Audio Recorder",
+  "description": "High-fidelity audio recorder with speaker cancellation, voice-music separation, and DSP mixing console styled with responsive glass animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
